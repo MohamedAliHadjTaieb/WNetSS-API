@@ -1,5 +1,8 @@
 # WNetSS-API
  The API WNetSS (WordNet Semantic Similarity) allows the reproducibility of a wide range of SS measures pertaining to different categories including taxonomic-based, features-based and IC-based measures. This API allows the extraction of the topological parameters from the WordNet “is a” taxonomy which are used to express the semantics of concepts. Also, we give the different ways in expressing the topological parameters depth and the hyponyms’ subgraph. Moreover, an evaluation module is proposed to assess the measures accuracy that can be evaluated and compared according to several widely-used benchmarks through the correlations coefficients.
+ 
+ <img src="https://user-images.githubusercontent.com/19282671/112054825-5e459980-8b56-11eb-82f3-df2330db8f93.png" align="center"></img>
+ 
  # Instructions for using the API
 The instructions that must be followed are:
 <ul>

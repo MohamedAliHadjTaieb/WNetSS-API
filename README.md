@@ -1,3 +1,6 @@
+# Introduction
+<p align="justify">Determining the Semantic Similarity (SS) between word pairs is an important component in several research fields such as artificial intelligence, information retrieval, natural language processing and biomedical domain. The majority of SS measures are assessed using the lexical database WordNet.</p>
+<img src="https://user-images.githubusercontent.com/19282671/112055772-8d103f80-8b57-11eb-9ce6-2e84841c0336.png"/ align="center">
 # WNetSS-API
  <p align="justify">The API WNetSS (WordNet Semantic Similarity) allows the reproducibility of a wide range of SS measures pertaining to different categories including taxonomic-based, features-based and IC-based measures. This API allows the extraction of the topological parameters from the WordNet “is a” taxonomy which are used to express the semantics of concepts. Also, we give the different ways in expressing the topological parameters depth and the hyponyms’ subgraph. Moreover, an evaluation module is proposed to assess the measures accuracy that can be evaluated and compared according to several widely-used benchmarks through the correlations coefficients.</p>
  

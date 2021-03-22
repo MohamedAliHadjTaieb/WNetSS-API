@@ -15,5 +15,6 @@ The instructions that must be followed are:
 <li>Exploiting the semantic similarity measures such as presented in the provided examples.</li>
 </ul>
 For more information visit the file <a href="https://github.com/MohamedAliHadjTaieb/WNetSS-API/blob/main/Readme.txt">readme.txt</a>
+
  # Reference the work
  Mohamed Ben Aouicha, Mohamed Ali Hadj Taieb, Abdelmajid Ben Hamadou: SISR: System for integrating semantic relatedness and similarity measures. Soft Comput. 22(6): 1855-1879 (2018) <a href="https://link.springer.com/article/10.1007/s00500-016-2438-x">LINK</a>

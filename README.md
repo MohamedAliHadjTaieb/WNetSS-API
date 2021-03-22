@@ -16,5 +16,30 @@ The instructions that must be followed are:
 </ul>
 For more information visit the file <a href="https://github.com/MohamedAliHadjTaieb/WNetSS-API/blob/main/Readme.txt">readme.txt</a>
 
+# Examples
+10 Exmaples using the WNetSS API are provided for helping the developers.
+<ul>
+ <li>Example0: Creating data base and loading WordNet data.</li>
+
+ <li>Example1: Extracting Topological Parameters of Nominal WordNet "is a" taxonomy.</li>
+
+ <li>Example2: Wordnet Semantic Similarity Taxonomic Measures.</li>
+
+ <li>Example3: Wordnet Semantic Similarity Information Content Approach.</li>
+
+ <li>Example4: Wordnet Semantic Similarity Features Approach.</li>
+
+ <li>Example5: Studying the accuracy of semantic measures through the nominal benchmarks.</li>
+
+ <li>Example6: Extracting Topological Parameters of Verbal WordNet "is a" taxonomy.</li>
+
+ <li>Example7: Studying the accuracy of semantic measures through the verbal benchmarks.</li>
+
+ <li>Example8: Wordnet "is a" taxonomy - Topological paramters.</li>
+
+ <li>Example9: Wordnet "is a" taxonomy - Length Shortest Path Similarity Measure.</li>
+</ul> <br><br>
+ For downloading all Examples follow this link : <a href="https://drive.google.com/file/d/11Kvs2oJtxEC8TZgZPRWNlLc2MweMG98A/view?usp=sharing">download examples</a>
+ 
  # Reference the work
  Mohamed Ben Aouicha, Mohamed Ali Hadj Taieb, Abdelmajid Ben Hamadou: SISR: System for integrating semantic relatedness and similarity measures. Soft Comput. 22(6): 1855-1879 (2018) <a href="https://link.springer.com/article/10.1007/s00500-016-2438-x">LINK</a>

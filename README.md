@@ -9,6 +9,11 @@
  <img src="https://user-images.githubusercontent.com/19282671/112054825-5e459980-8b56-11eb-82f3-df2330db8f93.png" align="center"/>
  <br>
  
+ # Information Content (IC) based semantic similarity measures
+ <p align="justify">The IC-based similarity measure was first introduced by Resnik. The basic idea of IC is that general and abstract entities found in a discourse present less IC than more concrete and specialized ones. This principle is inspired from the work of Shannon. The more probable a concept appears, the less information it conveys. The concept has then been modified and extended by several authors to include other methods. Although they commonly rely on IC values assigned to the concepts in the ontology. IC-based measures are based on couples (IC computing method, IC measure). Concerning the computing IC methods, they follow two strategies: statistical corpora analysis and exploiting only the topological parameters of “is a” taxonomy known as intrinsic computing method.</p>
+ <img src="https://user-images.githubusercontent.com/19282671/112056548-6e5e7880-8b58-11eb-8a21-7a6b8f164522.png" align="center"/>
+ <br>
+ 
  # Instructions for using the API
 The instructions that must be followed are:
 <ul>
